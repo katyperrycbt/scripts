@@ -1,6 +1,6 @@
 {
     "name": "@tallis/adhoc-fetch",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "An adhoc fetch polyfill for personal use",
     "main": "dist/index",
     "module": "dist/index",
