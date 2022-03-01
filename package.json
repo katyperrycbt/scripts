@@ -1,0 +1,21 @@
+{
+    "name": "@tallis/adhoc-fetch",
+    "version": "0.0.1",
+    "description": "An adhoc fetch polyfill for personal use",
+    "main": "dist/index",
+    "module": "dist/index",
+    "files": [
+        "dist",
+        "README.md"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/katyperrycbt/scripts.git"
+    },
+    "author": "katyperrycbt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/katyperrycbt/scripts/issues"
+    },
+    "homepage": "https://github.com/katyperrycbt/scripts#readme"
+}
